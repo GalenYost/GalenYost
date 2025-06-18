@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m GalenYost
 
-<!--
-**GalenYost/GalenYost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & Full-stack Web Developer**
 
-Here are some ideas to get you started:
+- 🦀 **Rust** and **C**
+- 🌐 Really like **SvelteKit**, **PrismaORM**, and **SurrealDB**
+- 💻 Passionate about open source and gaming
+- ⌨️ Always exploring new tech and frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “i use arch btw”
+
+---
+
+### ⚡ About Me
+
+- I enjoy diving into systems programming and bringing robust solutions to the web.
+- Open to collaborating on innovative open source projects.
+- Always happy to chat about code, games, or the latest in tech.
+
+---
