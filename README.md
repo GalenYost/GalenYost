@@ -19,4 +19,6 @@
 - Open to collaborating on innovative open source projects.
 - Always happy to chat about code, games, or the latest in tech.
 
+Note: there are not finished projects in my repos, thats because i did them only for practice, no intention of finishing them, maybe i will do it once, but not now xD
+
 ---
