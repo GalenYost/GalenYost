@@ -2,7 +2,7 @@
 
 **Software Engineer & Full-stack Web Developer**
 
-- **Rust** and **C**
+- **Rust** and **C** are the best languages
 - Really like **SvelteKit** and **SurrealDB**
 - Passionate about open source and gaming
 
