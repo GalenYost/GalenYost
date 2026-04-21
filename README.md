@@ -8,7 +8,7 @@
 
 ---
 
-Fun fact: i use arch btw
+Fun fact: i use void linux
 
 ---
 
